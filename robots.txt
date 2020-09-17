@@ -1,1 +1,1 @@
-Sitemap: https://hemanth346.github.io/blog/sitemap.xml
+Sitemap: https://hemanth346.github.io/sitemap.xml
